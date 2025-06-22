@@ -30,5 +30,6 @@ A responsive front-end clone of the Flipkart homepage, built using HTML and CSS.
 
 ---
 
-## 📦 Project Structure
 
+
+NOTE - This is just a web page designed to test my HTML and CSS skills, it is not responsive because i haven't added JS to it yet.
