@@ -2,7 +2,8 @@
 
 A responsive front-end clone of the Flipkart homepage, built using HTML and CSS. This project recreates the basic layout and styling of an e-commerce platform to showcase frontend development skills.
 
-![Preview](img/preview.png) <!-- optional: replace with your site screenshot -->
+![Uploading Screenshot 2025-06-22 184234.png…]()
+
 
 ---
 
