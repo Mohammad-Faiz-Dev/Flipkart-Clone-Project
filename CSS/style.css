@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(47, 64, 220);
+    height: 73px;
+    font-family: 'Lato', sans-serif;
+}
+nav{
+    display: flex;
+}
+nav ul{
+    height: 58px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+    padding: 0 23px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+.search{
+    display: flex;
+    align-items: center;
+}
+
+.search-bar{
+    height: 23px;
+    width: 493px;
+    border-radius: 4px;
+    margin: 0 16px 0 56px;
+}
+.slider{
+    display: flex;
+    justify-content: left;
+    width: 80vw;
+    margin: 12px auto;
+}
+.Featured{
+    width: 12vw;
+}
+footer{
+    height: 12vh;
+    background-color: rgb(47, 64, 220);
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+.card{
+    max-width: 91vw;
+    margin: 12px auto;
+}
+.card-2 {
+    max-width: 91vw;
+    margin: 12px auto;
+}
+
+/* New addition */
+.card-content {
+    display: flex;
+    gap: 20px; /* spacing between product cards */
+    flex-wrap: wrap; /* allows wrapping on smaller screens */
+    justify-content: center; /* center items horizontally */
+}
+.card-item {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+h2{
+    font-family: 'Ubuntu', sa;
+}
+.bat-img{
+    height: 25vh;
+}
+.ball{
+    height: 25vh;
+}
+.gloves{
+    height: 25vh;
+}
+.pads{
+    height: 25vh;
+}
+.stumps{
+    height: 25vh;
+}
+.Helmets{
+    height: 25vh;
+}
+.Flipkart-Logo{
+    height: 83px;
+    width: 80px;
+}
+.Accessories{
+    height: 25vh;
+}
