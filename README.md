@@ -1,16 +1,15 @@
 # 🛒 Flipkart Clone
 
-A responsive front-end clone of the Flipkart homepage, built using HTML and CSS. This project recreates the basic layout and styling of an e-commerce platform to showcase frontend development skills.
+A front-end clone of the Flipkart homepage, built using HTML and CSS. This project recreates the basic layout and styling of an e-commerce platform to showcase frontend development skills.
 
 ![Screenshot 2025-06-22 184234](https://github.com/user-attachments/assets/cb64351c-1170-423a-be9e-a3791805158e)
 
 
-
+not yet responsive, currently working on it
 ---
 
 ## 📌 Features
 
-- Fully responsive layout using Flexbox
 - Product sections for accessories and cricket gear
 - Search bar, navigation menu, and footer
 - Clean, modular CSS with utility classes
